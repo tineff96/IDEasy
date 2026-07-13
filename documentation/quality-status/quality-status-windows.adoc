@@ -9,20 +9,20 @@ Automatically generated open issue overview for Windows.
 
 link:quality-status.adoc[Back to overview]
 
-*Total Issues:* 149
+*Total Issues:* 152
 
 * OS-specific: 12
 
 * Multi-OS: 0
 
-* Cross-platform: 137
+* Cross-platform: 140
 
 == Windows Specific Issues
 
 [%header, cols="^1,7"]
 |===
 | Issue | Summary
-2+^| *0-10 days*
+2+^| *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2088[#2088]
 | SystemPath throws InvalidPathException on a single malformed PATH entry, aborti…
