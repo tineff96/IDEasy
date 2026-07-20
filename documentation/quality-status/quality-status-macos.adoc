@@ -9,23 +9,30 @@ Automatically generated open issue overview for macOS.
 
 link:quality-status.adoc[Back to overview]
 
-*Total Issues:* 154
+*Total Issues:* 144
 
-* OS-specific: 12
+* OS-specific: 13
 
 * Multi-OS: 2
 
-* Cross-platform: 140
+* Cross-platform: 129
 
 == macOS Specific Issues
 
 [%header, cols="^1,7"]
 |===
 | Issue | Summary
+2+^| *0-10 days*
+
+| link:https://github.com/devonfw/IDEasy/issues/2163[#2163]
+| ide upgrade mode snapshot doesn't work on MacOS
+
 2+^| *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2100[#2100]
 | Python not available for Mac x64
+
+2+^| *31-60 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2039[#2039]
 | IDE logo not shown in mac task bar
@@ -71,7 +78,7 @@ link:quality-status.adoc[Back to overview]
 [%header, cols="^1,7"]
 |===
 | Issue | Summary
-2+^| *0-10 days*
+2+^| *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2136[#2136]
 | Support Ruby URL updater for Linux and macOS

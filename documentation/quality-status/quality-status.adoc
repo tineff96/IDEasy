@@ -15,7 +15,7 @@ https://github.com/devonfw/IDEasy[devonfw/IDEasy].
 image::quality-status-images/issue-statistics.svg[Bar chart: open issue metrics,width=100%]
 
 
-_Generated: 2026-07-13 09:34 UTC_
+_Generated: 2026-07-20 09:21 UTC_
 
 
 == Operating System Status Files
@@ -24,7 +24,7 @@ Issues are assigned to operating systems based on their labels:
 `windows`, `linux`, or `macOS`.
 
 Issues without an operating system label are treated as cross-platform.
-*A total of 140 cross-platform issues* are documented centrally in this document and are therefore not repeated in the operating system specific files.
+*A total of 129 cross-platform issues* are documented centrally in this document and are therefore not repeated in the operating system specific files.
 
 The detailed tool status is split into one generated file per operating system.
 
@@ -53,20 +53,25 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | Issue | Summary
 2+^a| [[cross-platform-0-10-days]] *0-10 days*
 
+| link:https://github.com/devonfw/IDEasy/issues/2168[#2168]
+| repository remote feature
+
+| link:https://github.com/devonfw/IDEasy/issues/2165[#2165]
+| prompt user for template variables at apply time
+
+| link:https://github.com/devonfw/IDEasy/issues/2156[#2156]
+| Support secret placeholders in generic configuration templates
+
+| link:https://github.com/devonfw/IDEasy/issues/2154[#2154]
+| Update internal setup documentation to use a settings URL instead of default
+
 | link:https://github.com/devonfw/IDEasy/issues/2145[#2145]
 | Expand Documentation on symlinks
 
-| link:https://github.com/devonfw/IDEasy/issues/2143[#2143]
-| Integrate Just
+2+^a| [[cross-platform-11-30-days]] *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2142[#2142]
 | Move IDE-specific metada (.idea, .vscode) out of workspace
-
-| link:https://github.com/devonfw/IDEasy/issues/2140[#2140]
-| just install fails since already installed
-
-| link:https://github.com/devonfw/IDEasy/issues/2137[#2137]
-| fix-vpn-tls-problem does not detect TLS certificate issues behind HTTP redirects
 
 | link:https://github.com/devonfw/IDEasy/issues/2134[#2134]
 | Add auto-completion for icd command (projects, workspaces, and repositories)
@@ -80,20 +85,11 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/2129[#2129]
 | Cleanup mvnd from review
 
-| link:https://github.com/devonfw/IDEasy/issues/2127[#2127]
-| Split "build and run url updater" step into separate build and run steps
-
 | link:https://github.com/devonfw/IDEasy/issues/2126[#2126]
 | Language selection dropdown doesn't appear in GUI
 
 | link:https://github.com/devonfw/IDEasy/issues/2124[#2124]
 | Workflow "Update Quality Status Documents" Fails
-
-| link:https://github.com/devonfw/IDEasy/issues/2123[#2123]
-| Add linting harness to ensure code-quality
-
-| link:https://github.com/devonfw/IDEasy/issues/2118[#2118]
-| Replace non-compliant java.io.File usages with java.nio.file.Path per coding co…
 
 | link:https://github.com/devonfw/IDEasy/issues/2117[#2117]
 | Split VSCode plugins into default vs. opt-in
@@ -113,16 +109,8 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/2107[#2107]
 | Add documentation for contributing to the GUI
 
-| link:https://github.com/devonfw/IDEasy/issues/2104[#2104]
-| Review VSCode plugin list and remove deprecated/unnecessary plugins
-
 | link:https://github.com/devonfw/IDEasy/issues/2103[#2103]
 | Add obsidian software/commandlet
-
-| link:https://github.com/devonfw/IDEasy/issues/2102[#2102]
-| IDE_ROOT environment variable is not available to ideasy.exe during MSI install…
-
-2+^a| [[cross-platform-11-30-days]] *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2097[#2097]
 | Configure IDE Plugins in Tool Configuration Tree in the GUI
@@ -133,17 +121,10 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/2071[#2071]
 | Create SoapUi commandlet
 
-| link:https://github.com/devonfw/IDEasy/issues/2070[#2070]
-| Create SoapUiUrlUpdater
+2+^a| [[cross-platform-31-60-days]] *31-60 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2058[#2058]
 | VSCode authentication not working with IDEasy
-
-| link:https://github.com/devonfw/IDEasy/issues/2056[#2056]
-| Remove progress bar for vscode plugins
-
-| link:https://github.com/devonfw/IDEasy/issues/2051[#2051]
-| Release workflow failing publishing release metadata on github
 
 | link:https://github.com/devonfw/IDEasy/issues/2050[#2050]
 | Evaluate shim/launcher-based runtime activation for Node/npm in IDEasy (follow-…
@@ -159,8 +140,6 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 
 | link:https://github.com/devonfw/IDEasy/issues/2021[#2021]
 | Remove status.json from ide-urls after migration
-
-2+^a| [[cross-platform-31-60-days]] *31-60 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2013[#2013]
 | Warning: "Unsupported JavaFX configuration: classes were loaded from 'unnamed m…
@@ -183,16 +162,13 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/1965[#1965]
 | Improve dependent installations
 
+2+^a| [[cross-platform-61-90-days]] *61-90 days*
+
 | link:https://github.com/devonfw/IDEasy/issues/1953[#1953]
 | Implement Base Functionality of Cleanup Commandlet
 
-2+^a| [[cross-platform-61-90-days]] *61-90 days*
-
 | link:https://github.com/devonfw/IDEasy/issues/1943[#1943]
 | Create Ruby Commandlet
-
-| link:https://github.com/devonfw/IDEasy/issues/1942[#1942]
-| Create a RubyUrlUpdater
 
 | link:https://github.com/devonfw/IDEasy/issues/1938[#1938]
 | GUI not launchable outside of project context
@@ -219,9 +195,6 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | Revision of the functionality of global tool commandlets
 
 2+^a| [[cross-platform-90plus-days]] *90+ days*
-
-| link:https://github.com/devonfw/IDEasy/issues/1814[#1814]
-| IDEasy still reports updates for settings are available after any number of inv…
 
 | link:https://github.com/devonfw/IDEasy/issues/1808[#1808]
 | icd is not navigating into single available workspace on icd -p project
@@ -331,17 +304,11 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/1134[#1134]
 | IDEasy autocompletion gets stuck if license agreement file was not found
 
-| link:https://github.com/devonfw/IDEasy/issues/1124[#1124]
-| Ensure latest version of Python is installed
-
 | link:https://github.com/devonfw/IDEasy/issues/1059[#1059]
 | Improve and fix dependency mechanism
 
 | link:https://github.com/devonfw/IDEasy/issues/1054[#1054]
 | Incorrect interpretation of trailling and leading spaces in version range parsi…
-
-| link:https://github.com/devonfw/IDEasy/issues/1041[#1041]
-| native image has globbing active
 
 | link:https://github.com/devonfw/IDEasy/issues/1031[#1031]
 | Integration of OpenRewrite

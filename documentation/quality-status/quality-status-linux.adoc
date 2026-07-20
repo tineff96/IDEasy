@@ -9,13 +9,13 @@ Automatically generated open issue overview for Linux.
 
 link:quality-status.adoc[Back to overview]
 
-*Total Issues:* 148
+*Total Issues:* 137
 
 * OS-specific: 6
 
 * Multi-OS: 2
 
-* Cross-platform: 140
+* Cross-platform: 129
 
 == Linux Specific Issues
 
@@ -53,7 +53,7 @@ link:quality-status.adoc[Back to overview]
 [%header, cols="^1,7"]
 |===
 | Issue | Summary
-2+^| *0-10 days*
+2+^| *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2136[#2136]
 | Support Ruby URL updater for Linux and macOS
