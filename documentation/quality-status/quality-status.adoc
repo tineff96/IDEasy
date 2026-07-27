@@ -15,7 +15,7 @@ https://github.com/devonfw/IDEasy[devonfw/IDEasy].
 image::quality-status-images/issue-statistics.svg[Bar chart: open issue metrics,width=100%]
 
 
-_Generated: 2026-07-20 09:21 UTC_
+_Generated: 2026-07-27 09:58 UTC_
 
 
 == Operating System Status Files
@@ -24,7 +24,7 @@ Issues are assigned to operating systems based on their labels:
 `windows`, `linux`, or `macOS`.
 
 Issues without an operating system label are treated as cross-platform.
-*A total of 129 cross-platform issues* are documented centrally in this document and are therefore not repeated in the operating system specific files.
+*A total of 134 cross-platform issues* are documented centrally in this document and are therefore not repeated in the operating system specific files.
 
 The detailed tool status is split into one generated file per operating system.
 
@@ -53,6 +53,74 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | Issue | Summary
 2+^a| [[cross-platform-0-10-days]] *0-10 days*
 
+| link:https://github.com/devonfw/IDEasy/issues/2211[#2211]
+| Delete PythonUrlUpdater and python metadata from ide-urls
+
+| link:https://github.com/devonfw/IDEasy/issues/2209[#2209]
+| Spike: relocate JetBrains .idea and *.properties out of the workspace
+
+| link:https://github.com/devonfw/IDEasy/issues/2200[#2200]
+| Add repository linting support
+
+| link:https://github.com/devonfw/IDEasy/issues/2197[#2197]
+| Python integration broken
+
+| link:https://github.com/devonfw/IDEasy/issues/2193[#2193]
+| Support for conditional auto-completion
+
+| link:https://github.com/devonfw/IDEasy/issues/2192[#2192]
+| Support for auto-completion synonyms
+
+| link:https://github.com/devonfw/IDEasy/issues/2191[#2191]
+| Improve auto-completion
+
+| link:https://github.com/devonfw/IDEasy/issues/2190[#2190]
+| IDEasy destroys my python installation
+
+| link:https://github.com/devonfw/IDEasy/issues/2189[#2189]
+| Integrate ruff
+
+| link:https://github.com/devonfw/IDEasy/issues/2188[#2188]
+| Spyder commandlet starts spyder in foreground
+
+| link:https://github.com/devonfw/IDEasy/issues/2187[#2187]
+| SoapUI commandlet starts soapui in foreground
+
+| link:https://github.com/devonfw/IDEasy/issues/2186[#2186]
+| Create ObsidianUrlUpdater
+
+| link:https://github.com/devonfw/IDEasy/issues/2185[#2185]
+| Explore JPackage and evaluate
+
+| link:https://github.com/devonfw/IDEasy/issues/2183[#2183]
+| Dynamically generate form fields for selected commandlet
+
+| link:https://github.com/devonfw/IDEasy/issues/2182[#2182]
+| Basic structure for Commandlet view
+
+| link:https://github.com/devonfw/IDEasy/issues/2181[#2181]
+| Merge VSCodium plugins folder to VSCode
+
+| link:https://github.com/devonfw/IDEasy/issues/2180[#2180]
+| Add *_PLUGINS_EXTRA variable to install extra IDE plugins per user
+
+| link:https://github.com/devonfw/IDEasy/issues/2178[#2178]
+| Make ReleaseCommandlet independent of specific build commandlet
+
+| link:https://github.com/devonfw/IDEasy/issues/2176[#2176]
+| Add 7z archive extraction support
+
+| link:https://github.com/devonfw/IDEasy/issues/2174[#2174]
+| VSCode: store metadata under $IDE_HOME/.ide/vscode/<workspace> + migration
+
+| link:https://github.com/devonfw/IDEasy/issues/2173[#2173]
+| JetBrains: store IntelliJ/PyCharm/Android Studio metadata under $IDE_HOME/.ide…
+
+| link:https://github.com/devonfw/IDEasy/issues/2172[#2172]
+| Foundation: introduce getIdeMetadataPath() for $IDE_HOME/.ide/<ide>/<workspace>
+
+2+^a| [[cross-platform-11-30-days]] *11-30 days*
+
 | link:https://github.com/devonfw/IDEasy/issues/2168[#2168]
 | repository remote feature
 
@@ -62,13 +130,8 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/2156[#2156]
 | Support secret placeholders in generic configuration templates
 
-| link:https://github.com/devonfw/IDEasy/issues/2154[#2154]
-| Update internal setup documentation to use a settings URL instead of default
-
 | link:https://github.com/devonfw/IDEasy/issues/2145[#2145]
 | Expand Documentation on symlinks
-
-2+^a| [[cross-platform-11-30-days]] *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2142[#2142]
 | Move IDE-specific metada (.idea, .vscode) out of workspace
@@ -76,23 +139,14 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/2134[#2134]
 | Add auto-completion for icd command (projects, workspaces, and repositories)
 
-| link:https://github.com/devonfw/IDEasy/issues/2133[#2133]
-| Add repository navigation option (-r) to icd command
-
 | link:https://github.com/devonfw/IDEasy/issues/2131[#2131]
 | Improve auto-completion for "ide upgrade --mode" enum values
 
-| link:https://github.com/devonfw/IDEasy/issues/2129[#2129]
-| Cleanup mvnd from review
-
 | link:https://github.com/devonfw/IDEasy/issues/2126[#2126]
-| Language selection dropdown doesn't appear in GUI
+| only german is listed in language selection dropdown
 
 | link:https://github.com/devonfw/IDEasy/issues/2124[#2124]
 | Workflow "Update Quality Status Documents" Fails
-
-| link:https://github.com/devonfw/IDEasy/issues/2117[#2117]
-| Split VSCode plugins into default vs. opt-in
 
 | link:https://github.com/devonfw/IDEasy/issues/2111[#2111]
 | Add user documentation for GUI
@@ -117,9 +171,6 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 
 | link:https://github.com/devonfw/IDEasy/issues/2096[#2096]
 | Add a commandlet execution user interface
-
-| link:https://github.com/devonfw/IDEasy/issues/2071[#2071]
-| Create SoapUi commandlet
 
 2+^a| [[cross-platform-31-60-days]] *31-60 days*
 
@@ -147,11 +198,10 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/1996[#1996]
 | Revisit design for tools that do not install to software repository
 
-| link:https://github.com/devonfw/IDEasy/issues/1992[#1992]
-| Improve GitContextMock
-
 | link:https://github.com/devonfw/IDEasy/issues/1987[#1987]
 | Gui commandlet broken for snapshots
+
+2+^a| [[cross-platform-61-90-days]] *61-90 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/1976[#1976]
 | Extend ToolCommandlet installation logic to allow software-repository-only inst…
@@ -161,8 +211,6 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 
 | link:https://github.com/devonfw/IDEasy/issues/1965[#1965]
 | Improve dependent installations
-
-2+^a| [[cross-platform-61-90-days]] *61-90 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/1953[#1953]
 | Implement Base Functionality of Cleanup Commandlet
@@ -214,20 +262,11 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/1721[#1721]
 | Integrate ruby
 
-| link:https://github.com/devonfw/IDEasy/issues/1720[#1720]
-| Integrate SoapUI
-
 | link:https://github.com/devonfw/IDEasy/issues/1695[#1695]
 | Clone settings to temporary directory, analyse, and then move
 
-| link:https://github.com/devonfw/IDEasy/issues/1694[#1694]
-| Fix behavior when providing a wrong git URL
-
 | link:https://github.com/devonfw/IDEasy/issues/1676[#1676]
 | Import extra SDKs automatically into IDE
-
-| link:https://github.com/devonfw/IDEasy/issues/1659[#1659]
-| Global tools run tool while installation is running in background
 
 | link:https://github.com/devonfw/IDEasy/issues/1651[#1651]
 | Move status.json files out of ide-urls to own repo
@@ -237,9 +276,6 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 
 | link:https://github.com/devonfw/IDEasy/issues/1628[#1628]
 | Support for OS specific CVEs
-
-| link:https://github.com/devonfw/IDEasy/issues/1594[#1594]
-| implement ReleaseCommandlet
 
 | link:https://github.com/devonfw/IDEasy/issues/1580[#1580]
 | Implement cleanup
@@ -276,9 +312,6 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 
 | link:https://github.com/devonfw/IDEasy/issues/1209[#1209]
 | migration version message is confusing
-
-| link:https://github.com/devonfw/IDEasy/issues/1206[#1206]
-| java.util.zip.ZipException when opening Android Studio archives from versions 2…
 
 | link:https://github.com/devonfw/IDEasy/issues/1181[#1181]
 | Improve url updater for docker desktop to pull all necessary versions
@@ -331,9 +364,6 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/930[#930]
 | Refactor `JsonPrettyPrinter` to be usable in CustomToolJson
 
-| link:https://github.com/devonfw/IDEasy/issues/897[#897]
-| HTTP Proxy with TLS termination causing errors
-
 | link:https://github.com/devonfw/IDEasy/issues/892[#892]
 | Improve GitContextTest tests to actually test something
 
@@ -364,17 +394,11 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/780[#780]
 | Create IDEasy service
 
-| link:https://github.com/devonfw/IDEasy/issues/772[#772]
-| CVE-2023-7272 in org.eclipse.parsson 1.1.7
-
 | link:https://github.com/devonfw/IDEasy/issues/771[#771]
 | Check URL Updater issues
 
 | link:https://github.com/devonfw/IDEasy/issues/741[#741]
 | Add a warning message for legacy devonfw-ide settings users
-
-| link:https://github.com/devonfw/IDEasy/issues/735[#735]
-| Enhance workspace configuration with generic overlay from settings/workspace
 
 | link:https://github.com/devonfw/IDEasy/issues/726[#726]
 | Replace hardcoded dependencies with dependencies.json in ide-urls
@@ -388,26 +412,17 @@ image::quality-status-images/functional-labels.svg[Bar chart: most common functi
 | link:https://github.com/devonfw/IDEasy/issues/690[#690]
 | UpdateUrls workflow timeout not working
 
-| link:https://github.com/devonfw/IDEasy/issues/639[#639]
-| Improve step success logic for sub steps
-
 | link:https://github.com/devonfw/IDEasy/issues/629[#629]
 | Recycle devonfw-ide documentation
 
 | link:https://github.com/devonfw/IDEasy/issues/607[#607]
 | Test for environment variables of process contexts  
 
-| link:https://github.com/devonfw/IDEasy/issues/516[#516]
-| IdeToolCommandlet: add option and support for import of project(s)
-
 | link:https://github.com/devonfw/IDEasy/issues/492[#492]
 | Use Maven dependency cache to optimize workflow running times
 
 | link:https://github.com/devonfw/IDEasy/issues/449[#449]
 | Consider integration of continue GenAI coding assistant
-
-| link:https://github.com/devonfw/IDEasy/issues/412[#412]
-| consider integration of lama
 
 | link:https://github.com/devonfw/IDEasy/issues/399[#399]
 | Handle uninstall of global tool commandlets

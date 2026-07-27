@@ -9,33 +9,23 @@ Automatically generated open issue overview for Windows.
 
 link:quality-status.adoc[Back to overview]
 
-*Total Issues:* 141
+*Total Issues:* 144
 
-* OS-specific: 12
+* OS-specific: 10
 
 * Multi-OS: 0
 
-* Cross-platform: 129
+* Cross-platform: 134
 
 == Windows Specific Issues
 
 [%header, cols="^1,7"]
 |===
 | Issue | Summary
-2+^| *11-30 days*
-
-| link:https://github.com/devonfw/IDEasy/issues/2102[#2102]
-| IDE_ROOT environment variable is not available to ideasy.exe during MSI install…
-
-2+^| *31-60 days*
-
-| link:https://github.com/devonfw/IDEasy/issues/1982[#1982]
-| relative option for link not honored
+2+^| *61-90 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/1981[#1981]
 | ide update fails on windows@arm64
-
-2+^| *61-90 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/1873[#1873]
 | Implement generic get-edition implementation for global tools under windows
