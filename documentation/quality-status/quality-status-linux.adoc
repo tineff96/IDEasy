@@ -9,13 +9,13 @@ Automatically generated open issue overview for Linux.
 
 link:quality-status.adoc[Back to overview]
 
-*Total Issues:* 142
+*Total Issues:* 140
 
 * OS-specific: 6
 
 * Multi-OS: 2
 
-* Cross-platform: 134
+* Cross-platform: 132
 
 == Linux Specific Issues
 

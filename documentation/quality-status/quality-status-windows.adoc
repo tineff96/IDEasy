@@ -9,23 +9,30 @@ Automatically generated open issue overview for Windows.
 
 link:quality-status.adoc[Back to overview]
 
-*Total Issues:* 144
+*Total Issues:* 143
 
-* OS-specific: 10
+* OS-specific: 11
 
 * Multi-OS: 0
 
-* Cross-platform: 134
+* Cross-platform: 132
 
 == Windows Specific Issues
 
 [%header, cols="^1,7"]
 |===
 | Issue | Summary
+2+^| *0-10 days*
+
+| link:https://github.com/devonfw/IDEasy/issues/2226[#2226]
+| Show IDEasy project, workspace and repository in the Git Bash / Windows Termina…
+
 2+^| *61-90 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/1981[#1981]
 | ide update fails on windows@arm64
+
+2+^| *90+ days*
 
 | link:https://github.com/devonfw/IDEasy/issues/1873[#1873]
 | Implement generic get-edition implementation for global tools under windows
@@ -35,8 +42,6 @@ link:quality-status.adoc[Back to overview]
 
 | link:https://github.com/devonfw/IDEasy/issues/1870[#1870]
 | Implement generic get-version implementation for global tools under windows
-
-2+^| *90+ days*
 
 | link:https://github.com/devonfw/IDEasy/issues/1558[#1558]
 | Add install.log path to msi installer window
