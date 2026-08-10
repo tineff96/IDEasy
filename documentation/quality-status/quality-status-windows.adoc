@@ -9,13 +9,13 @@ Automatically generated open issue overview for Windows.
 
 link:quality-status.adoc[Back to overview]
 
-*Total Issues:* 143
+*Total Issues:* 153
 
-* OS-specific: 11
+* OS-specific: 9
 
 * Multi-OS: 0
 
-* Cross-platform: 132
+* Cross-platform: 144
 
 == Windows Specific Issues
 
@@ -23,6 +23,11 @@ link:quality-status.adoc[Back to overview]
 |===
 | Issue | Summary
 2+^| *0-10 days*
+
+| link:https://github.com/devonfw/IDEasy/issues/2251[#2251]
+| Provide generic uninstall support for globally installed tools (Windows)
+
+2+^| *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2226[#2226]
 | Show IDEasy project, workspace and repository in the Git Bash / Windows Termina…
@@ -36,15 +41,6 @@ link:quality-status.adoc[Back to overview]
 
 | link:https://github.com/devonfw/IDEasy/issues/1873[#1873]
 | Implement generic get-edition implementation for global tools under windows
-
-| link:https://github.com/devonfw/IDEasy/issues/1872[#1872]
-| Implement generic uninstall implementation for global tools under windows
-
-| link:https://github.com/devonfw/IDEasy/issues/1870[#1870]
-| Implement generic get-version implementation for global tools under windows
-
-| link:https://github.com/devonfw/IDEasy/issues/1558[#1558]
-| Add install.log path to msi installer window
 
 | link:https://github.com/devonfw/IDEasy/issues/1548[#1548]
 | Windows file locking error on update with plugins
