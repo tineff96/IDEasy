@@ -9,25 +9,23 @@ Automatically generated open issue overview for Windows.
 
 link:quality-status.adoc[Back to overview]
 
-*Total Issues:* 153
+*Total Issues:* 159
 
 * OS-specific: 9
 
 * Multi-OS: 0
 
-* Cross-platform: 144
+* Cross-platform: 150
 
 == Windows Specific Issues
 
 [%header, cols="^1,7"]
 |===
 | Issue | Summary
-2+^| *0-10 days*
+2+^| *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2251[#2251]
 | Provide generic uninstall support for globally installed tools (Windows)
-
-2+^| *11-30 days*
 
 | link:https://github.com/devonfw/IDEasy/issues/2226[#2226]
 | Show IDEasy project, workspace and repository in the Git Bash / Windows Termina…
