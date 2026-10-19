@@ -23,33 +23,33 @@
 <text x="138" y="83" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">Open Issues</text>
 <rect x="150" y="68" width="436" height="20" rx="4" fill="var(--chart-bar-track)"/>
 <rect x="150" y="68" width="436.0" height="20" rx="4" fill="#0969da"/>
-<text x="594.0" y="83" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">223</text>
+<text x="594.0" y="83" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">244</text>
 <text x="138" y="121" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">Assigned</text>
 <rect x="150" y="106" width="436" height="20" rx="4" fill="var(--chart-bar-track)"/>
-<rect x="150" y="106" width="299.1" height="20" rx="4" fill="#1f883d"/>
-<text x="457.1" y="121" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">153</text>
+<rect x="150" y="106" width="302.0" height="20" rx="4" fill="#1f883d"/>
+<text x="460.0" y="121" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">169</text>
 <text x="138" y="159" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">Unassigned</text>
 <rect x="150" y="144" width="436" height="20" rx="4" fill="var(--chart-bar-track)"/>
-<rect x="150" y="144" width="136.9" height="20" rx="4" fill="#bf8700"/>
-<text x="294.9" y="159" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">70</text>
+<rect x="150" y="144" width="134.0" height="20" rx="4" fill="#bf8700"/>
+<text x="292.0" y="159" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">75</text>
 <text x="138" y="197" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">Blockers</text>
 <rect x="150" y="182" width="436" height="20" rx="4" fill="var(--chart-bar-track)"/>
 <rect x="150" y="182" width="0.0" height="20" rx="4" fill="#8250df"/>
 <text x="158.0" y="197" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">0</text>
 <text x="138" y="235" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">Bugs</text>
 <rect x="150" y="220" width="436" height="20" rx="4" fill="var(--chart-bar-track)"/>
-<rect x="150" y="220" width="72.3" height="20" rx="4" fill="#cf222e"/>
-<text x="230.3" y="235" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">37</text>
+<rect x="150" y="220" width="66.1" height="20" rx="4" fill="#cf222e"/>
+<text x="224.1" y="235" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">37</text>
 <text x="138" y="273" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">Tasks</text>
 <rect x="150" y="258" width="436" height="20" rx="4" fill="var(--chart-bar-track)"/>
-<rect x="150" y="258" width="168.1" height="20" rx="4" fill="#0969da"/>
-<text x="326.1" y="273" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">86</text>
+<rect x="150" y="258" width="184.0" height="20" rx="4" fill="#0969da"/>
+<text x="342.0" y="273" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">103</text>
 <text x="138" y="311" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">Features</text>
 <rect x="150" y="296" width="436" height="20" rx="4" fill="var(--chart-bar-track)"/>
-<rect x="150" y="296" width="170.1" height="20" rx="4" fill="#1f883d"/>
-<text x="328.1" y="311" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">87</text>
+<rect x="150" y="296" width="153.7" height="20" rx="4" fill="#1f883d"/>
+<text x="311.7" y="311" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">86</text>
 <text x="138" y="349" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">No Type</text>
 <rect x="150" y="334" width="436" height="20" rx="4" fill="var(--chart-bar-track)"/>
-<rect x="150" y="334" width="25.4" height="20" rx="4" fill="#bf8700"/>
-<text x="183.4" y="349" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">13</text>
+<rect x="150" y="334" width="32.2" height="20" rx="4" fill="#bf8700"/>
+<text x="190.2" y="349" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">18</text>
 </svg>
