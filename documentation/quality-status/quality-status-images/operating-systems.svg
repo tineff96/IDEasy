@@ -37,8 +37,8 @@
 <rect x="123.9" y="130" width="459.8" height="24" fill="#8c959f"/>
 <text x="591.7" y="147" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">204</text>
 <text x="98" y="195" text-anchor="end" fill="var(--chart-text)" font-family="sans-serif" font-size="14">macOS</text>
-<rect x="110.0" y="178" width="4.6" height="24" fill="#0969da"/>
-<rect x="114.6" y="178" width="4.6" height="24" fill="#8250df"/>
-<rect x="119.3" y="178" width="459.8" height="24" fill="#8c959f"/>
-<text x="587.1" y="195" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">202</text>
+<rect x="110.0" y="178" width="7.0" height="24" fill="#0969da"/>
+<rect x="117.0" y="178" width="4.6" height="24" fill="#8250df"/>
+<rect x="121.6" y="178" width="459.8" height="24" fill="#8c959f"/>
+<text x="589.4" y="195" fill="var(--chart-muted-text)" font-family="sans-serif" font-size="13" font-weight="600">203</text>
 </svg>
